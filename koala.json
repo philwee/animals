@@ -1,0 +1,15 @@
+{
+  "name": "Token Name",
+  "description": "A description of the token",
+  "image": "https://raw.githubusercontent.com/philwee/animals/main/koala.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    }
+  ]
+}
